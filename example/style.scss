@@ -1,0 +1,40 @@
+---
+---
+
+html {
+  background-color: darkred;
+  font-family: "Palatino Linotype";
+  font-size: 20px;
+}
+
+body {
+  background-color: floralwhite;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 48px 64px;
+}
+a {
+  color: darkred;
+}
+
+img {
+  max-width: 100%;
+}
+
+pre {
+  background-color: #444;
+  border: 1px solid black;
+  color: floralwhite;
+  padding: 8px 16px;
+}
+
+.pilcrow {
+  color: gray;
+  font-size: 26px;
+  margin-left: -18.5px;
+  text-decoration: none;
+}
+
+.pilcrow:hover {
+  color: darkred;
+}

@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+ruby '2.4.2'
+
+gem 'jekyll'
+
+group :jekyll_plugins do
+  gem 'jekyll_pilcrow_converter', path: '../'
+end
